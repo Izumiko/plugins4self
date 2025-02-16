@@ -1,0 +1,43 @@
+{
+  "addons": {
+    "zoteroreference@polygon.org": {
+      "updates": [
+        {
+          "version": "1.4.0",
+          "update_link": "https://github.com/Izumiko/plugins4self/releases/download/dev/zotero-reference.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    },
+    "zoterostyle@polygon.org": {
+      "updates": [
+        {
+          "version": "5.4.2",
+          "update_link": "https://github.com/Izumiko/plugins4self/releases/download/dev/zotero-style.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    },
+    "zoterogpt@polygon.org": {
+      "updates": [
+        {
+          "version": "1.7.2",
+          "update_link": "https://github.com/Izumiko/plugins4self/releases/download/dev/zotero-gpt.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
